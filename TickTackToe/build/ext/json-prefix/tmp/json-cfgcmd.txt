@@ -1,0 +1,1 @@
+cmd='C:/msys64/mingw64/bin/cmake.exe;-DCMAKE_INSTALL_PREFIX=C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext;-DJSON_MultipleHeaders=ON;-DBUILD_TESTING=OFF;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

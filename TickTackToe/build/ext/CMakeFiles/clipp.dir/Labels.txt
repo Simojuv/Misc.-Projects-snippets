@@ -1,0 +1,13 @@
+# Target labels
+ clipp
+# Source files and their labels
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/CMakeFiles/clipp
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/CMakeFiles/clipp.rule
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/CMakeFiles/clipp-complete.rule
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/clipp-prefix/src/clipp-stamp/clipp-install.rule
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/clipp-prefix/src/clipp-stamp/clipp-mkdir.rule
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/clipp-prefix/src/clipp-stamp/clipp-download.rule
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/clipp-prefix/src/clipp-stamp/clipp-update.rule
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/clipp-prefix/src/clipp-stamp/clipp-patch.rule
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/clipp-prefix/src/clipp-stamp/clipp-configure.rule
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/clipp-prefix/src/clipp-stamp/clipp-build.rule

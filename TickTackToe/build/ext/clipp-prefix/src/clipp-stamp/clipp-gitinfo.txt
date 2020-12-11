@@ -1,0 +1,3 @@
+repository='https://github.com/muellan/clipp.git'
+module=''
+tag=''

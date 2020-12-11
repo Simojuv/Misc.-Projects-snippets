@@ -1,0 +1,13 @@
+# Target labels
+ json
+# Source files and their labels
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/CMakeFiles/json
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/CMakeFiles/json.rule
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/CMakeFiles/json-complete.rule
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/json-prefix/src/json-stamp/json-install.rule
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/json-prefix/src/json-stamp/json-mkdir.rule
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/json-prefix/src/json-stamp/json-download.rule
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/json-prefix/src/json-stamp/json-update.rule
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/json-prefix/src/json-stamp/json-patch.rule
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/json-prefix/src/json-stamp/json-configure.rule
+C:/Users/EESIJUV/repository/Exercises/build-Exercise12_with_tests-Desktop_Qt_MinGW_w64_64bit_MSYS2-Debug/ext/json-prefix/src/json-stamp/json-build.rule

@@ -1,0 +1,6 @@
+set(SUBPROJECT_NAME ${PROJECT_NAME}Core)
+# find_package(nlohmann_json REQUIRED)
+file(GLOB_RECURSE SRC_LIST *.cpp *.h)
+add_library(${SUBPROJECT_NAME} ${SRC_LIST})
+# target_link_libraries(${SUBPROJECT_NAME} PRIVATE nlohmann_json::nlohmann_json)
+target_include_directories(${SUBPROJECT_NAME} PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
