@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Simo/Desktop/Koolisitt/ABB C++/repository/Exercises/Exercise21-GUI/build/app",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Exercise21-GUI.dir/includes_CXX.rsp -g -Wall -Wextra -pedantic -Wconversion -Wsign-conversion -Wshadow=local -fconcepts -std=gnu++17 -o CMakeFiles\\Exercise21-GUI.dir\\main.cpp.obj -c \"C:\\Users\\Simo\\Desktop\\Koolisitt\\ABB C++\\repository\\Exercises\\Exercise21-GUI\\app\\main.cpp\"",
+  "file": "C:/Users/Simo/Desktop/Koolisitt/ABB C++/repository/Exercises/Exercise21-GUI/app/main.cpp"
+}
+]

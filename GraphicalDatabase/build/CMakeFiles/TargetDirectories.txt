@@ -1,0 +1,5 @@
+C:/Users/Simo/Desktop/Koolisitt/ABB C++/repository/Exercises/Exercise21-GUI/build/CMakeFiles/edit_cache.dir
+C:/Users/Simo/Desktop/Koolisitt/ABB C++/repository/Exercises/Exercise21-GUI/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Simo/Desktop/Koolisitt/ABB C++/repository/Exercises/Exercise21-GUI/build/app/CMakeFiles/Exercise21-GUI.dir
+C:/Users/Simo/Desktop/Koolisitt/ABB C++/repository/Exercises/Exercise21-GUI/build/app/CMakeFiles/edit_cache.dir
+C:/Users/Simo/Desktop/Koolisitt/ABB C++/repository/Exercises/Exercise21-GUI/build/app/CMakeFiles/rebuild_cache.dir

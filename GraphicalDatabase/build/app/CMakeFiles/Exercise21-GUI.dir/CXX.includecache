@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Simo/Desktop/Koolisitt/ABB C++/repository/Exercises/Exercise21-GUI/app/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+map
+-
+windows.h
+-
+conio.h
+-
+fstream
+-
+

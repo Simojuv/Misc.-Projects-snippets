@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Exercise21-GUI.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Exercise21-GUI.dir/objects.a @CMakeFiles\Exercise21-GUI.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE -g -Wl,--whole-archive CMakeFiles\Exercise21-GUI.dir/objects.a -Wl,--no-whole-archive -o Exercise21-GUI.exe -Wl,--out-implib,libExercise21-GUI.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Exercise21-GUI.dir\linklibs.rsp

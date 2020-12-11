@@ -1,0 +1,74 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "app",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "app",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Exercise21-GUI",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Exercise21-GUI::@5f5a17c01335469806cb",
+					"jsonFile" : "target-Exercise21-GUI-Debug-c9e77a640c2142aeab15.json",
+					"name" : "Exercise21-GUI",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Simo/Desktop/Koolisitt/ABB C++/repository/Exercises/Exercise21-GUI/build",
+		"source" : "C:/Users/Simo/Desktop/Koolisitt/ABB C++/repository/Exercises/Exercise21-GUI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
