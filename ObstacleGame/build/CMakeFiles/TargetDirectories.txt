@@ -1,0 +1,16 @@
+C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/CMakeFiles/rebuild_cache.dir
+C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/CMakeFiles/edit_cache.dir
+C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/app/CMakeFiles/rebuild_cache.dir
+C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/app/CMakeFiles/Exercise11_with_test.dir
+C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/app/CMakeFiles/edit_cache.dir
+C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/core/CMakeFiles/rebuild_cache.dir
+C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/core/CMakeFiles/Exercise11_with_testCore.dir
+C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/core/CMakeFiles/edit_cache.dir
+C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/test/CMakeFiles/rebuild_cache.dir
+C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/test/CMakeFiles/Exercise11_with_testTest.dir
+C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/test/CMakeFiles/edit_cache.dir
+C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/CMakeFiles/edit_cache.dir
+C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/CMakeFiles/dependencies.dir
+C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/CMakeFiles/rebuild_cache.dir
+C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/CMakeFiles/clipp.dir
+C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/CMakeFiles/json.dir

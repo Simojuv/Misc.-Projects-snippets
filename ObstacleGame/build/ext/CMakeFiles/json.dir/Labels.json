@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/CMakeFiles/json"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/CMakeFiles/json.rule"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/CMakeFiles/json-complete.rule"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/json-prefix/src/json-stamp/json-install.rule"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/json-prefix/src/json-stamp/json-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/json-prefix/src/json-stamp/json-download.rule"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/json-prefix/src/json-stamp/json-update.rule"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/json-prefix/src/json-stamp/json-patch.rule"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/json-prefix/src/json-stamp/json-configure.rule"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/json-prefix/src/json-stamp/json-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"json"
+		],
+		"name" : "json"
+	}
+}

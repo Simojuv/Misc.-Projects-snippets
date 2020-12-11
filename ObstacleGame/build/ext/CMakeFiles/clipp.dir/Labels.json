@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/CMakeFiles/clipp"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/CMakeFiles/clipp.rule"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/CMakeFiles/clipp-complete.rule"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/clipp-prefix/src/clipp-stamp/clipp-install.rule"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/clipp-prefix/src/clipp-stamp/clipp-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/clipp-prefix/src/clipp-stamp/clipp-download.rule"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/clipp-prefix/src/clipp-stamp/clipp-update.rule"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/clipp-prefix/src/clipp-stamp/clipp-patch.rule"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/clipp-prefix/src/clipp-stamp/clipp-configure.rule"
+		},
+		{
+			"file" : "C:/Users/EESIJUV/repository/Exercises/build-Exercise11_with_test-Desktop_Qt_MinGW_w64_64bit_MSYS2-Default/ext/clipp-prefix/src/clipp-stamp/clipp-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"clipp"
+		],
+		"name" : "clipp"
+	}
+}
