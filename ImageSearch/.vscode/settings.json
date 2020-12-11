@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "errorutils.h": "c",
+        "stdlib.h": "c",
+        "mystructures.h": "c",
+        "formatutils.h": "c",
+        "inpututils.h": "c",
+        "myexifutils.h": "c",
+        "searchutils.h": "c",
+        "stdbool.h": "c",
+        "stdio.h": "c"
+    }
+}

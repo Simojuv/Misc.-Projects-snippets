@@ -1,0 +1,1 @@
+JPEG search console application made for Artec Design internship.
